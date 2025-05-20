@@ -1,9 +1,6 @@
 
 # Airline Passenger Satisfaction Analysis
 
-**Course**: CSE 4/587 Spring 2025
-**Project**: Phases 1–4 of the Data Science Pipeline
-
 ---
 
 ## Table of Contents
